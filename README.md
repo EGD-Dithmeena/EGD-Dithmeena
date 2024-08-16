@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/f28b4022600593.58c272e374fa3.gif)
   
-## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Dithmeena Egodagamage 🌱
 
 <h3> 👩🏻‍💻 &nbsp;About Me </h3>
 
