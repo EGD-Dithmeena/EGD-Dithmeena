@@ -1,5 +1,7 @@
+[![MasterHead](https://osmic.co.in/assets/images/resources_img/2d_animation.gif)]
 <h1 align="center">Hi 👋, I'm Dithmeena Egodagamage</h1>
 <h3 align="center">A passionate UI/UX Intern from Sri Lanka</h3>
+<img  align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f4/46/22/f4462216f52bfa5ffb285b4a17e5f71b.gif1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egd-dithmeena&label=Profile%20views&color=0e75b6&style=flat" alt="egd-dithmeena" /> </p>
 
