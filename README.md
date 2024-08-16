@@ -14,7 +14,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a href="https://www.linkedin.com/in/dithmeenaegodagamage/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 5px">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://www.behance.net/dithmeenaegodagamage">
